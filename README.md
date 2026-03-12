@@ -1,4 +1,4 @@
-# Nballgou
+# Nballgou - نبلغو
 
 Nballgou is a civic platform that allows citizens to report urban issues in Rabat.
 
